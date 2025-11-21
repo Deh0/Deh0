@@ -1,24 +1,18 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deh0&label=Profile%20views&color=0e75b6&style=flat" alt="deh0" /> </p>
-
-
-<!--<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://instagram.com/@deeh_ribeiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@bribatti" height="30" width="40" /></a>
-</p>
--->
-<h3 align="left">Idiomas e ferramentas:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deh0&label=Profile%20views&color=0e75b6&style=flat" alt="deh0" />
   
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+## Dispónivel no perfil
+  
+Ensino o passo a passo sobre Django e sobre a sua estrutura, para ajudar iniciantes desde o momento de desenvolvimento quanto para o momento de produção, com base em pesquisas e práticas.
 
-<!--<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>-->
+Repositório sobre teste de caixa preta em um site demo de banco, onde o site apresentou falhas e permitiu acesso sem um sistema de segurança adequado.
+
+# E-commerce Infantil com Sistema de Gestão e Analytics
+
+## Sobre o Projeto
+
+Atualmente estou desenvolvendo um projeto em Django para um e-commerce do varejo infantil para uma empresa como freelancer, tenho como objetivo documentar tudo e compartilhar nesse meu perfil. Será um desenvolvimento Full-Stack com foco em desenvolver um projeto prático de dados, com Machine Learning. Para isso será necessário realizar a modelagem de dados e todas as suas etapas, a ideia inicial será criar um sistema de gerenciamento de compras para esse e-commerce para poder acompanhar os índices e gráficos de vendas todos os dias, mês e ano, ou seja, fazer dashboards com os pedidos que foram feitos, as vendas, lucros e custos que a empresa terá, também será desenvolvido um sistema de gestão, onde terá avisos de estoque, compra com fornecedores na melhor época levando em consideração o tempo de entrega, entre outras funcionalidades que ainda estão sendo estudadas. Para aproveitar o uso do django será utilizado o painel administrador, onde já tem os níveis de acesso necessários e por gerar um CRUD com facilidade.
+
+Será desenvolvido neste mesmo e-commerce uma integração com APIs externas como API do Bradesco para pagamentos, API de nota fiscal eletrônica e API de Frete. 
+
+Em breve será disponibilizado no meu perfil, previsão de conclusão estimada: 23/01/2026
+
